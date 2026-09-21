@@ -41,7 +41,8 @@ function About() {
 
             <div>
               <span>SKILLS</span>
-              <p>AUTOCAD</p>
+              <p>AUTOCAD 2D</p>
+              <p>SKETCHUP</p>
               <p>CANVA · EXCEL · GOOGLE SHEETS</p>
             </div>
           </div>
