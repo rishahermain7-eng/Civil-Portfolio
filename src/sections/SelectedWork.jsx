@@ -41,12 +41,12 @@ function SelectedWork() {
     },
     {
       number: "06 / 07",
-      title: "BEDROOM 3D RENDER",
+      title: "Sketchup 3D Model",
       image: bedroom3DRender,
     },
     {
       number: "07 / 07",
-      title: "BEDROOM INTERIOR",
+      title: "VRay Render",
       image: bedroomInterior,
     },
   ];
