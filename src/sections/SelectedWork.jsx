@@ -7,8 +7,8 @@ import secondPlan from "../assets/plans/Second.png";
 import terracePlan from "../assets/plans/Terrace.png";
 import finalPlan from "../assets/plans/Final.png";
 
-import bedroomInterior from "../assets/images/bedroom-interior.jpeg";
-import bedroom3DRender from "../assets/images/bedroom-3d-render.png";
+import bedroomInterior from "../assets/images/VRay Render.jpeg";
+import bedroom3DRender from "../assets/images/Sketchup 3D Model.png";
 
 function SelectedWork() {
   const [selectedPlan, setSelectedPlan] = useState(null);
@@ -40,7 +40,7 @@ function SelectedWork() {
       image: finalPlan,
     },
     {
-      number: "06/ 07",
+      number: "06 / 07",
       title: "BEDROOM 3D RENDER",
       image: bedroom3DRender,
     },
