@@ -6,6 +6,7 @@ import firstPlan from "../assets/plans/First.png";
 import secondPlan from "../assets/plans/Second.png";
 import terracePlan from "../assets/plans/Terrace.png";
 import finalPlan from "../assets/plans/Final.png";
+import frontElevation from "../assets/plans/Front Elevation.png";
 
 import bedroomInterior from "../assets/images/VRay Render.jpeg";
 import bedroom3DRender from "../assets/images/Sketchup 3D Model.png";
@@ -15,38 +16,43 @@ function SelectedWork() {
 
   const plans = [
     {
-      number: "01 / 07",
+      number: "01 / 08",
       title: "GROUND FLOOR",
       image: groundPlan,
     },
     {
-      number: "02 / 07",
+      number: "02 / 08",
       title: "FIRST FLOOR",
       image: firstPlan,
     },
     {
-      number: "03 / 07",
+      number: "03 / 08",
       title: "SECOND FLOOR",
       image: secondPlan,
     },
     {
-      number: "04 / 07",
+      number: "04 / 08",
       title: "TERRACE",
       image: terracePlan,
     },
     {
-      number: "05 / 07",
+      number: "05 / 08",
       title: "FINAL PLAN",
       image: finalPlan,
     },
     {
-      number: "06 / 07",
-      title: "Sketchup 3D Model",
+      number: "06 / 08",
+      title: "FRONT ELEVATION",
+      image: frontElevation,
+    },
+    {
+      number: "07 / 08",
+      title: "SKETCHUP 3D MODEL",
       image: bedroom3DRender,
     },
     {
-      number: "07 / 07",
-      title: "VRay Render",
+      number: "08 / 08",
+      title: "VRAY RENDER",
       image: bedroomInterior,
     },
   ];
